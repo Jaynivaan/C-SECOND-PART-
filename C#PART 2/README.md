@@ -157,9 +157,6 @@ requirements:
 5 comment generously..
 
 
-
-
-
 #16
 MethodClassAssignment(directory)
 _______________________________
@@ -179,4 +176,36 @@ teh requirements are
 5.a add generous comments..
 
 6.a push to git hub and submit .
+
+#18
+MethodsAndObjectsAssignment (directory)
+________________________________________
+This directory consist of three cs files person.cs, Employee.cs and Program.cs
+This is the assignment from module 4
+
+requirements:
+
+1.a create a class called Person.
+1.b give Person two properties of type string.
+1.c property one is FirstName and property two is LastName
+
+2.a Create a void  method called SayName()
+2.b this method takes no parameters.
+2.c print the full name in the format: Name:[full name]
+
+3.a Create another class called Employee
+3.b let Employee inherit from Person
+3.c Give Employee an integer property called Id
+
+4.a In program.cs Main(),instantiate and initialize the Employee object
+4.b set FirstName = "sample"
+4.c set LastName = "Student"
+
+5.a call the superclass method SayName() on the Employee object
+
+6.a comment generously , save nd run it .
+
+7.a push to github.
+
+#19
 
