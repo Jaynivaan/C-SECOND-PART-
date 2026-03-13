@@ -181,7 +181,7 @@ teh requirements are
 MethodsAndObjectsAssignment (directory)
 ________________________________________
 This directory consist of three cs files person.cs, Employee.cs and Program.cs
-This is the assignment from module 4
+This is the assignment from module 5
 
 requirements:
 
@@ -208,4 +208,34 @@ requirements:
 7.a push to github.
 
 #19
+AbstractClassesAssignment(directory)
+__________________________
+
+this directory consist of three cs files Person.cs, Employee.cs  and Program.cs
+this is from module 5
+
+requirements:
+
+1.a  create an abstract class called Person
+1.b giveit 2 string attributes FirstName and  LastName
+
+2.a create and abstract method called SayName()
+
+3.a Create another class called Employee
+3.b Inherit Employee from person 
+
+4.a Implement the SayName() method inside Employee
+
+5.a in Program.cs Main(), instantiate an  Employee object
+5.b set FirstName = "Sample"
+5.c set LastName = "Student"
+
+6.a call teh SayName() method on the object
+
+7.a comment generously
+7.b save and run it
+7.c push it to github
+
+#20
+
 
