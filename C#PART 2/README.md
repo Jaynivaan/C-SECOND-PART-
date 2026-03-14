@@ -237,5 +237,29 @@ requirements:
 7.c push it to github
 
 #20
+PolymorphismAssignment(directory)
+________________________________
+This directory consist of four cs files IQuittable.cs, Person.cs , Employee.cs and Program.cs
+This is from the module 5
 
+requirements:
+
+1.a create an interface called IQuittable
+1.b define a void method called Quit()
+
+2.a use the Employee class form previous drill
+2.b let Employee inherit that interface
+2.c implement the Quit() method in Emoployee
+
+3.a use Polymorphism
+3.b create an object of type IQuittable
+3.c assign an Employee object to it
+3.d Callthe Quit() method on it 
+
+4.a comment generously
+4.b save and run it
+
+5.a push it to github
+
+#21
 
