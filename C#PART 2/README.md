@@ -177,6 +177,38 @@ teh requirements are
 
 6.a push to git hub and submit .
 
+#17
+ClassMethodAssignment(directory)
+________________________________
+
+this  directory consist of two cs files Program.cs and VoidMethod.cs this is from Module 5
+
+requirements:
+
+1.a create a class
+1.b inside that class create a void method
+1.c have the method take one integer parameter
+1.d divide the entered number by 2
+
+2.a in Program.cs file Main(), instantiate the class
+
+3.a ask the user to enter a number 
+3.b call the method on that number
+3.c display the result  to screen 
+
+4.a create a method with output parameters
+
+5.a overload a method
+
+6.a declare a static method in the class
+
+7.a comment generously 
+7.b save and run it
+
+8.a push it to git hub
+
+
+
 #18
 MethodsAndObjectsAssignment (directory)
 ________________________________________
