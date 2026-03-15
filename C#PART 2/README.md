@@ -294,4 +294,30 @@ requirements:
 5.a push it to github
 
 #21
+OperatorsAssignment (directory)
+_______________________________
+
+this directory consist of two cs files Program.cs and Employee.cs
+this assignment is from module 6
+
+requiremets:
+
+1.a create an Employee class
+1.b create Id property
+1.c create firstName property and lastName Property.
+
+2.a overload the == operator
+2.b Compare the two Employees using the Id Property
+2.c Overload the != as comparison operators always done in pairs.
+
+3.a in program.cs instantiate two Employee objects
+3.b assign values to their properties
+3.c compare the two Employee objects using hte overloaded Operators
+3.d display the results on screen
+
+4.a comment generously
+
+5.a push it to github.
+
+#22
 
