@@ -320,4 +320,22 @@ requiremets:
 5.a push it to github.
 
 #22
+ParsingEnumAssignment(directory)
+_____________________________
+this assignmnet part of module 6 contains one file Program.cs
+
+requirements:
+
+1.a Create an enum for the week
+
+2.a Ask hte user to enter a day
+
+3.a Convert the text to enum
+
+4.a use try catch 
+
+5.a generously comment
+
+6.a push to github
+
 
