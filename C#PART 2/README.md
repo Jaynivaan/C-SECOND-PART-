@@ -382,4 +382,23 @@ requirements:
 5.a push ot github
 
 #26
+ConstructorAssignment
+_________________________
+This is the assignment from module 8. 
+this consist of two files Chain.cs and Program.cs
+
+requirements:
+
+1.a create a const variable
+
+2.a Create a variable using the keyword var
+
+3.a  chain the two constructors together
+
+4.a generously comment the code.
+
+5.a  push to github
+
+#27
+
 
