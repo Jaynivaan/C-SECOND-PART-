@@ -364,4 +364,22 @@ requirements
 5.a push to github 
 
 #25
+DateTimeAssignment(directory)
+____________________________
+this is the assignment from module 7 on dateTime
+the directory includes the file Program.cs
+
+requirements:
+
+1.a print current dateTime to console
+
+2.a Ask the user for a number
+
+3.a Print to console the exact  time it will be in X hours, X being the number  the user chose
+
+4.a comment generously
+
+5.a push ot github
+
+#26
 
