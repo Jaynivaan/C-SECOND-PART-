@@ -339,3 +339,29 @@ requirements:
 6.a push to github
 
 
+#23
+TwentyOne
+___________
+this is the project where the writer is coding along with instructor.
+
+
+#24
+InputAssignment (directory)
+___________________________
+this is the assignment from module 7 io sectoin
+the file inside is Program.cs
+
+requirements
+
+1.a  ask user for a number
+
+2.a Logs that number to a text file
+
+3.a Print the text file back to user
+
+4.a comment generously
+
+5.a push to github 
+
+#25
+
